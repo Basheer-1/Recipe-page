@@ -41,8 +41,7 @@ body {
 }
 
 img {
-    width: 650px;
-    object-fit: contain;
+    width: 825px;
     border-radius: 15px;
 }
 
